@@ -97,7 +97,7 @@ This project was executed using **Newman CLI** with HTML Extra Reporter. Here's 
 
 ### 📈 Dashboard Screenshot
 
-![Newman Run Dashboard](./ecommerce-newman-report.png)
+![Newman Run Dashboard](Newman/ecommerce-newman-report.png)
 
 ---
 

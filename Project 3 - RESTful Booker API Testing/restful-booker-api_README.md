@@ -111,14 +111,15 @@ This project was executed using **Newman CLI**, and the results were visualized 
 You can run this collection from your terminal using the following command:
 
 ```bash
-- newman run "Project #4 – RESTful Booker API Testing.postman_collection.json" \
+  newman run "Project #4 – RESTful Booker API Testing.postman_collection.json" \
   --environment "Development.postman_environment.json" \
   --reporters cli,json,html
-
+```
 - Install the Newman Extra Reporter if needed:
-
 ```bash
-- npm install -g newman-reporter-htmlextra
+  npm install -g newman-reporter-htmlextra`.
+
+```
 ---
 
 ## ✅ Recommendations for Enhancement

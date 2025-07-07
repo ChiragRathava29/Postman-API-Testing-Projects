@@ -97,9 +97,7 @@ This project was executed using **Newman CLI** with HTML Extra Reporter. Here's 
 
 ### 📈 Dashboard Screenshot
 
-![Newman Run Dashboard](./screenshot-newman-dashboard.png)
-
-> 🖼️ Make sure `ecommerce-newman-report.png` is saved in the same folder as this `README.md` file.
+![Newman Run Dashboard](./ecommerce-newman-report.png)
 
 ---
 

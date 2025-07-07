@@ -98,20 +98,7 @@ Set the following if not using environment:
 
 ## 📊 Test Execution Results
 
-This project was executed using **Newman CLI**, and the results were visualized using the Newman HTML Extra Reporter. Below is the summary from the most recent test run:
-
-### ✅ Execution Summary
-
-| Metric                | Value               |
-|-----------------------|---------------------|
-| Total Iterations      | 1                   |
-| Total Requests        | 15                  |
-| Total Assertions      | 19                  |
-| Failed Tests          | 5                   |
-| Skipped Tests         | 0                   |
-| Total Run Duration    | 7.7s                |
-| Average Response Time | 419ms               |
-| Collection Name       | Restful Booker (API Project) |
+This project was executed using **Newman CLI**, and the results were visualized using the Newman HTML Extra Reporter. 
 
 ### 📈 Dashboard Snapshot
 

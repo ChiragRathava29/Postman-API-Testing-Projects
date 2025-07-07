@@ -96,6 +96,40 @@ Set the following if not using environment:
 
 ---
 
+## 📊 Test Execution Results
+
+This project was executed using **Newman CLI**, and the results were visualized using the Newman HTML Extra Reporter. Below is the summary from the most recent test run:
+
+### ✅ Execution Summary
+
+| Metric                | Value               |
+|-----------------------|---------------------|
+| Total Iterations      | 1                   |
+| Total Requests        | 15                  |
+| Total Assertions      | 19                  |
+| Failed Tests          | 5                   |
+| Skipped Tests         | 0                   |
+| Total Run Duration    | 7.7s                |
+| Average Response Time | 419ms               |
+| Collection Name       | Restful Booker (API Project) |
+
+### 📈 Dashboard Snapshot
+
+![Newman Run Dashboard](./screenshot-newman-dashboard.png)
+
+---
+
+### 🚀 Running Tests via Newman
+
+You can run this collection from your terminal using the following command:
+
+~bash
+newman run "Project #4 – RESTful Booker API Testing.postman_collection.json" \
+  --environment "Development.postman_environment.json" \
+  --reporters cli,json,html
+  
+---
+
 ## ✅ Recommendations for Enhancement
 
 - Add negative test cases for invalid payloads and unauthorized access

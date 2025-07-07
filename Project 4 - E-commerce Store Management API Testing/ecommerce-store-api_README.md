@@ -91,6 +91,34 @@ Import the `Development.postman_environment.json` file. It includes:
 
 ---
 
+## 📊 Test Execution Results
+
+This project was executed using **Newman CLI** with HTML Extra Reporter. Here's a snapshot of the latest run:
+
+### 📈 Dashboard Screenshot
+
+![Newman Run Dashboard](./screenshot-newman-dashboard.png)
+
+> 🖼️ Make sure `ecommerce-newman-report.png` is saved in the same folder as this `README.md` file.
+
+---
+
+## 🔧 Running via Newman CLI
+
+You can also run this collection from your terminal:
+
+```bash
+  newman run "E-commerce Store Management.postman_collection.json" \
+  --environment "Development.postman_environment.json" \
+  --reporters cli,htmlextra
+```
+
+- Install the Newman Extra Reporter if needed:
+```bash
+  npm install -g newman-reporter-htmlextra
+
+```
+
 ## ✅ Suggestions for Improvement
 
 - 🔍 Add schema validation for `products`, `users`, and `carts`

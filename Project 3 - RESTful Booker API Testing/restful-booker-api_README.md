@@ -115,7 +115,7 @@ This project was executed using **Newman CLI**, and the results were visualized 
 
 ### 📈 Dashboard Snapshot
 
-![Newman Run Dashboard](./screenshot-newman-dashboard.png)
+![Newman Run Dashboard](Newman/screenshot-newman-dashboard.png)
 
 ---
 

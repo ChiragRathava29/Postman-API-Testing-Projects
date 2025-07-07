@@ -1,4 +1,4 @@
-# 🧪 Project #4 – RESTful Booker API Testing
+# 🧪 Project #3 – RESTful Booker API Testing
 
 This project demonstrates comprehensive end-to-end API testing using Postman for the [RESTful Booker API](https://restful-booker.herokuapp.com). The API simulates a hotel booking system and supports full CRUD operations. The collection includes positive and negative test cases, schema validation, dynamic data handling, and authentication scenarios.
 

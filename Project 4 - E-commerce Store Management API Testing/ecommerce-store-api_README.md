@@ -1,4 +1,4 @@
-# 🛒 Project #5 – E-commerce Store Management API Testing
+# 🛒 Project #4 – E-commerce Store Management API Testing
 
 This Postman project includes end-to-end testing for two mock API backends representing an e-commerce system:
 
